@@ -1,7 +1,7 @@
 body {
   background-color: #fcfcfc;
   color: black;
-  font-family: sans-serif;
+  font-family: Trebuchet MS, sans-serif;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -9,7 +9,7 @@ body {
 
 /* Navigation */
 
-ul {
+ul.nav-list {
   background-color: #c6994e;
   list-style-type: none;
   margin: 0;
@@ -17,11 +17,11 @@ ul {
   overflow: hidden;
 }
 
-li {
+li.nav-item {
   float: left;
 }
 
-li a {
+li.nav-item a {
   display: block;
   color: white;
   text-align: center;
@@ -29,7 +29,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+li.nav-item a:hover {
   background-color: #000;
 }
 
@@ -41,14 +41,48 @@ li a:hover {
 /* Main content */
 
 h1 {
+  margin-top: 25px;
   font-size: 32pt;
 }
 
 h2 {
-  margin-top: 40px;
-  margin-bottom: -20px;
+  margin-top: -20px;
+  margin-bottom: 30px;
 }
 
 .bio-pic {
   border-radius: 50%;
+  width: 220px;
+}
+
+.links {
+  margin: auto;
+  width: 200px;
+  font-size: 14pt;
+}
+
+ul.link-list {
+  list-style: none;
+  list-style-type: none;
+  margin: 0;
+  margin-top: 30px;
+  padding: 0;
+}
+
+li.link-item {
+  text-align: center;
+  margin-bottom: 20px;
+  /* padding: 20px 0; */
+  border: 2px solid black;
+}
+
+li.link-item a {
+  text-decoration: none;
+  color: black;
+  display: block;
+  padding: 20px 0;
+}
+
+li.link-item a:hover {
+  background-color: gray;
 }

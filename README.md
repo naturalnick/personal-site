@@ -1,12 +1,22 @@
-<h1>My Personal Website</h1>
+# Minimalist Personal Website
 
-Simple website made from HTML and CSS.
+<br>
 
-See it in action <a href="https://naturalnick.github.io/personal-site/">here</a>.
+_A simple website made using HTML and CSS._
 
-<h2>Summary</h2>
-<p>
-Summary here...
-</p>
+<br>
 
-<h3>Author: Nick Schaefer</h3>
+See it in action [here](https://naturalnick.github.io/personal-site/)
+
+<br>
+
+Screenshot:
+<image src="images/screenshot.png">
+
+## Summary
+
+This is my first Software Development Mastermind project. It's made using only HTML and CSS and consists of a navigation bar, a header, and a profile picture. The second addition has added links to my personal sites.
+
+## Author
+
+- **Nick Schaefer** - _Full-Stack Software Developer_ - [Website](https://nschaefer.com/) | [LinkedIn](https://www.linkedin.com/in/nick-n-schaefer)
