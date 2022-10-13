@@ -11,7 +11,7 @@ See it in action [here](https://naturalnick.github.io/personal-site/)
 <br>
 
 Screenshot:
-<image src="images/screenshot.png">
+<image src="images/screenshot.jpeg">
 
 ## Summary
 
